@@ -3,7 +3,7 @@
 prompt gpt 做的小玩具
 
 使用方式
-```python
+```bash
 python tmp.py
 ```
 
